@@ -1,0 +1,245 @@
+Package: com.kernelrw.adytum
+Architecture: iphoneos-arm
+Version: 3.0
+Section: Tweaks
+Maintainer: Kernelrw <drtramadolmorphine@gmail.com>
+Installed-Size: 2748
+Depends: mobilesubstrate, firmware (>= 15.0), com.opa334.altlist, com.opa334.ccsupport, preferenceloader
+Conflicts: com.sergy.immortalizer, com.sergy.immortalizerjailed, com.sergy.immortalizers, com.dao.immortalizer, com.evgeniy.immortalizerreborn, xyz.cypwn.immortalizer
+Filename: https://raw.githubusercontent.com/mowang7426/mowang/main/debs/Adytum_3.0_iphoneos-arm_b40bb8e8ea1de9ff.deb
+Size: 291720
+MD5sum: 249ef5c29609ad8d53435be30e3c9c69
+SHA1: fe6063afc038a7ebc253a504243ceae5c16072fd
+SHA256: ba1512be81f09260a22e27b1acab4838ccedf98490cbb56e6a4a17b34710ffb3
+SHA512: 596b5bdbedf710a96471952208e34efb002a8fed13d3e28e42eca0271c453b06dd2670da06f7b9a04d1e6eaf40f253f178a154f58252a20c1b3a729b8b886c09
+Description: True application backgrounding management.
+Tag: compatible_min::ios15.0
+Author: Kernelrw <drtramadolmorphine@gmail.com>
+Name: Adytum
+Icon: https://img.chariz.cloud/icon/adytum/icon@3x.png
+Depiction: https://chariz.com/get/adytum
+
+Package: com.hierarch.dykiller
+Architecture: iphoneos-arm
+Version: 0.6.6
+Priority: optional
+Section: Tweaks
+Maintainer: hierarch
+Installed-Size: 3820
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: https://raw.githubusercontent.com/mowang7426/mowang/main/debs/DYKiller_0.6.6_iphoneos-arm.deb
+Size: 919168
+MD5sum: fd0381ffe100bc79b0037193f790c7cd
+SHA1: 31d878d08dbb55cfdf47f235ede8a4554fa315a1
+SHA256: 45cf44c63091fbd61a6b63397827505093e4baebde16b8b4379171094d05b0aa
+SHA512: 0f75ceed2e78cf8e21258bc25198d2032f6f3bac3604b376d73c55031e23ea5016c8cfe2507fc47a03385984d489bf7fd5edd1ad4eaf3adc2799776176249d91
+Description: 抖音 UI 增强插件（模块化 hook 框架）
+Name: DYKiller
+Author: hierarch
+icon: https://huayuarc.github.io/icon/douyin.jpg
+
+Package: com.hierarch.dykiller
+Architecture: iphoneos-arm
+Version: 0.6.8
+Priority: optional
+Section: Tweaks
+Maintainer: hierarch
+Installed-Size: 4148
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: https://raw.githubusercontent.com/mowang7426/mowang/main/debs/DYKiller_0.6.8_iphoneos-arm.deb
+Size: 1005380
+MD5sum: c1ada263982517da788b2b1fc765996d
+SHA1: ee1c4151c97cf72868d711c069049e5f9d0a3bc5
+SHA256: 83c692f2da2cdcff4559a48684cca2fc3fa34a5e8fc1818917b04239cb614601
+SHA512: 636e045c0af49bc74f05b78d7633a2d1bd8b1fdfe807c990b2e0ecb392dd9c778db1d4629214a6a46abfcfe82885e9ae3b6a32ef55f80c289092e063e3f40159
+Description: 抖音 UI 增强插件（模块化 hook 框架）
+Name: DYKiller
+Author: hierarch
+icon: https://huayuarc.github.io/icon/douyin.jpg
+
+Package: com.touchWorld.doubanTweak
+Architecture: iphoneos-arm
+Version: 1.2.0
+Priority: optional
+Section: Tweaks
+Maintainer: TouchWorld
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: https://raw.githubusercontent.com/mowang7426/mowang/main/debs/DoubanTweak_1.2.0_iphoneos-arm.deb
+Size: 19884
+MD5sum: 3b49087f7bcb0caaad8981b2e9b0b5c6
+SHA1: acdeae2531d6b1bd570b80dd5e1d3826bc8c7413
+SHA256: 21a9dd6817991ad803a6dd6799494c197feac00ecb73fb817c108d18f531137d
+SHA512: 9803734174d8af67adc7f71d3f9d9a76b66fc1b7f0875c9c6c03128f05e877d204d249252be5d7c9d1620bc069ae2a256945cc99e8f12be0c39e54dd028ef124
+Description: 去除豆瓣广告插件
+Name: DoubanTweak
+Author: TouchWorld
+Icon: https://touchfriend.github.io/depictions/com.touchWorld.doubanTweak/icon.png
+
+Package: com.mlgm.kayoko
+Architecture: iphoneos-arm
+Version: 5.0.4
+Section: Tweaks
+Maintainer: mlgm
+Installed-Size: 3516
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
+Filename: https://raw.githubusercontent.com/mowang7426/mowang/main/debs/Kayoko_5.0.4_iphoneos-arm.deb
+Size: 751872
+MD5sum: f6bf348b5d62d086c5b1235035057ebe
+SHA1: 21ecdc8b1eeab1f3062063478b5951cb65518ecc
+SHA256: 12df409165e11beb589b9798b22e7abdc08b1a10440595d73a582fcb32f57c2d
+SHA512: 3ee2ff72bd0a2ec10acc60405d7397fc57688470841be8d5f1d9e4f002bb4d0ed4b8e08221f4b43cad10790f52e13ab3d657d4e1114d819b01a369d7916dc06b
+Description: 功能丰富的剪切板管理器，基于 Kayoko (乌龙版本) 进行修改
+Name: Kayoko
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/kayoko.png
+SileoDepiction: https://mlgm66.github.io/depictions/com.mlgm.kayoko/depiction.json
+
+Package: com.vita.yuki
+Architecture: iphoneos-arm
+Version: 0.1-2
+Priority: optional
+Section: Tweaks
+Maintainer: vita
+Installed-Size: 748
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: https://raw.githubusercontent.com/mowang7426/mowang/main/debs/Yuki_0.1-2_iphoneos-arm.deb
+Size: 143340
+MD5sum: 75918966f2a8566a705f8c104da45cfb
+SHA1: ba52e9987f2b2de577fb233817977c330082a5fd
+SHA256: 9b227a0c8fc2cd926ef8605a263402cff44f77d662978e75a71963fc6427fcdc
+SHA512: feb95af91ee67e8d3e0662b97d64d2924cfbd6eeb1f0e2261d24a8bf9e57b9a974e5db880689500eccc1e35a2f6bbadbb064811fd491407b3a313c0ed222806c
+Description: 抖音防撤回等，优化性能，免费插件，随缘更新。
+Name: Yuki
+Author: vita
+icon: https://huayuarc.github.io/icon/douyin.jpg
+
+Package: com.82flex.touchvis
+Architecture: iphoneos-arm
+Version: 4.2
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 3644
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: https://raw.githubusercontent.com/mowang7426/mowang/main/debs/com.82flex.touchvis_4.2_iphoneos-arm.deb
+Size: 728442
+MD5sum: 65b8c41584b9cc77cc6e019f106a15e7
+SHA1: 812c2eafaa25c4b9dda2d131487f0624fd40dec3
+SHA256: 647ae9295e9ae3e44db516b4f22484435b72ddc54dd6fc7fd6be13e367deca5b
+SHA512: 08da9b33eb037c8a4a33deed48578fa1e4774cfbaadb51f90341808dbb717f4e1573ca727a0978af0d716b2b848c01c18a401082b26e03adf73928fe5cf37192
+Description: Display your touch interactions!
+Name: Touch-Viz
+Author: Lessica <82flex@gmail.com>
+
+Package: com.iosdump.shellx
+Architecture: iphoneos-arm
+Version: 11.0
+Section: Tweaks
+Maintainer: iosdump
+Installed-Size: 20276
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.jontelang.snapper3, byg.iosios.net.snapper3, com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: https://raw.githubusercontent.com/mowang7426/mowang/main/debs/com.iosdump.shellx_11.0_iphoneos-arm.deb
+Size: 4481252
+MD5sum: 5403db2055b7c07794d2b99df3f6b353
+SHA1: a2732cd2adeaf2ec39c99bddac62e9d7cd763db6
+SHA256: 55f465f3d16dd6a3e0f5bc5f03e3a580a2b3fa0864011005f39e52280f25ea2c
+SHA512: 31b0857dac225133622609a5b42e953148c13317b2458ee0c9fb76379cc0ab26a510856da96c72ca90edc2985ad378f81f63e12a860b237ae490bada6711764c
+Description: 支持录屏/截图套壳，水印以及区域截图、长截图、Ai问答、快捷手势等，兼容iOS14-17所有越狱
+Name: SHELLX
+Author: iosdump
+
+Package: com.ioskuka.kukatoolbox
+Architecture: iphoneos-arm
+Version: 1.3.3
+Section: Tweaks
+Maintainer: ioskuka
+Installed-Size: 4284
+Filename: https://raw.githubusercontent.com/mowang7426/mowang/main/debs/com.ioskuka.kukatoolbox_1.3.3_iphoneos-arm.deb
+Size: 1009770
+MD5sum: 2b271f0636215b67ae577736c500bc55
+SHA1: de44899961089c13570a92c1233e2e792db220db
+SHA256: 5567db4ca6d749353b84aeb7910164ca0c65ec7fb3aafe3c016ca454041d0986
+SHA512: eb7e37d38129a5bcab98233dca2e746cc4c8944dfb9685e95dc25d3fa8dfa1571da28ffb8794e477a91750ef498bed5495d7477d1a657be386ec89b891639436
+Description: KAlert 5.7.0 based KUKA toolbox with compact adaptive UI, full-screen touch recorder, device tools and integrated GameSave submenu
+Name: KUKA工具箱
+Author: ioskuka
+
+Package: com.hierarch.dykiller
+Architecture: iphoneos-arm
+Version: 0.6.7
+Priority: optional
+Section: Tweaks
+Maintainer: hierarch
+Installed-Size: 4116
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: https://raw.githubusercontent.com/mowang7426/mowang/main/debs/%E6%8A%96%E9%9F%B3%20UI%20%E5%A2%9E%E5%BC%BA%E6%8F%92%E4%BB%B6%20DYKiller_0.6.7_iphoneos-arm.deb
+Size: 993356
+MD5sum: 0d8f5f17ec6c70ebfd602a3edbfcc1c8
+SHA1: b2b90594af08c63044897edc22f3b816d7a203c0
+SHA256: e261aaa987ab9ec717f5c34c307d77af6f1d262805764343f3f175c83908d086
+SHA512: f25e7a0f1c4d7a3fe0469f64ba1746b2660e13a91c0df22429c877a2856011b8b34e4e3492ed243cc8a6f7ac05fbf5d1d225cee82af0be506d02aeb0b3689c51
+Description: 抖音 UI 增强插件（模块化 hook 框架）
+Name: 抖音 UI 增强插件 DYKiller
+Author: hierarch
+icon: https://huayuarc.github.io/icon/douyin.jpg
+
+Package: com.ntm.notifymanager
+Architecture: iphoneos-arm
+Version: 2.3.50
+Section: Tweaks
+Maintainer: yzdmm2024
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: https://raw.githubusercontent.com/mowang7426/mowang/main/debs/%E9%80%9A%E7%9F%A5%E7%AE%A1%E7%90%86_2.3.50_iphoneos-arm.deb
+Size: 197848
+MD5sum: 3567c46c11e864e6c8c08f1ddacdcb48
+SHA1: 77eafa35ba877f5780fee19bfa69be2a6cdd1984
+SHA256: 3b25ddf4a426bab2a7568e882dd88557eda29e7632e4fcf5286d7356e541d04f
+SHA512: bb0e52e2770bbfb05ede5231057173bfb5ccf281b26030cbd05c26a1816bbb1a7e64feb90238943195a553c90f4b46ebbe2669d98f6a007141771d8030a0d0da
+Description: 通知管理 - 按 App 管理通知与网络，同步系统「蜂窝网络」设置
+ 轻量级 SpringBoard 通知 / 网络管理工具：无定时器、无轮询，通知到达只做内存查表，
+ 空闲时不耗电；不在后台常驻任何进程。
+ .
+ 【通知管理】按「用户应用 / 巨魔应用 / 系统应用」列出手机上所有真实 App
+ （自动过滤隐藏的系统辅助服务，无图标的系统组件不显示），逐个 App 控制：
+ - 总开关：关闭后该 App 的通知不再显示
+ - 分项开关：锁定屏幕 / 通知中心 / 横幅 / 声音 / 标记，各自独立
+ - 隐藏预览：只显示 App 名称，不显示具体内容
+ - 仅隐藏角标：保留通知，只去掉数字角标
+ - 关键词过滤：命中关键词的通知自动丢弃
+ .
+ 【网络管理】与「设置 - 蜂窝网络 - 某 App 的蜂窝数据」同源：
+ - 每个 App 可选：Wi-Fi + 蜂窝 / 仅 Wi-Fi / 仅蜂窝 / 完全断网
+ - 后台自动断网：App 进后台即切断已建立连接并拒绝新建连接，回前台自动恢复
+ - 新装 App 首次联网不再弹「允许使用无线数据」，按面板配置静默放行
+ - 不需要拦截时可一键关闭，恢复系统原生选择框
+ .
+ 【其他】
+ - 批量控制、搜索、单应用重置、配置导入导出
+ - 自动授权通知权限：抹除或还原设置后，打开 App 不再弹「想给您发送通知」
+ - 面板内置诊断日志，可查看弹窗拦截的命中情况
+ .
+ 支持系统：iOS 14 / 15 / 16 / 17（arm64、arm64e）
+ iOS 14 请安装 rootful 版；iOS 15 及以上安装 rootless 版。
+ 有问题请在「设置 - 通知管理」右上角点「反馈」，附上机型与系统版本。
+Name: 通知管理
+Author: yzdmm2024
+Firmware: >= 14.0
+
+Package: com.gu.xianyupick
+Architecture: iphoneos-arm
+Version: 1.9.1
+Section: Tweaks
+Maintainer: 故
+Depends: mobilesubstrate
+Filename: https://raw.githubusercontent.com/mowang7426/mowang/main/debs/%E9%97%B2%E9%B1%BC%E6%8D%A1%E6%BC%8F-1.9.1-unlocked.deb
+Size: 153346
+MD5sum: 61c8a1b95aeaf654e7d0c246607c0bff
+SHA1: 61853cc463b5395e9f17991be2bf07a2bbc45b58
+SHA256: e60874e71d94f8fa4d1b28d5dd5bd7e0d947ec76dcceff3aab39b6b511941120
+SHA512: dd4574c8df726dacf22988d9defbbdf7ca8633b796398b41215d4713ca945feadaed1004928bd068be5a556b54e6b704d0f1170e8fb8b3cb9f76f8c44f4b15bd
+Homepage: https://t.me/zakadeep_bot
+Description: 闲鱼商品嗅探 + 筛选捡漏工具。悬浮球面板可按机型/容量/系统版本/机身颜色/成色/价格/想要人数筛选，自动翻页、单条复制、点击直达商品。v1.9.1：激活弹窗精简（去掉机器码说明与操作提示两行文字，界面更干净）；卡密校验改为进算法层做严格对账——错码不再只是弹提示，而是当场终止，挡掉批量试码的脚本。抓取与筛选逻辑与 v1.9.0 完全一致。
+Name: 闲鱼捡漏
+Author: 故

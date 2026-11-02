@@ -1,0 +1,24 @@
+Origin: 爱玩机
+Label: 爱玩机
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: 爱玩机
+Support: https://1928408314.github.io/
+Icon: https://1928408314.github.io/CydiaIcon.png
+MD5Sum:
+ 239641c8f99e7a6f63d3a8cee069c1b5 11964 main/binary-iphoneos-arm/Packages
+ 4e59df853a113c7323f17e5ad56059f7 5610 main/binary-iphoneos-arm/Packages.gz
+ 59c97f1a4651bba4694f8bfee0120bd8 1031531 main/binary-iphoneos-arm64/Packages
+ 1b34fb3d216e9ea98f99744f66b9d189 252573 main/binary-iphoneos-arm64/Packages.gz
+ d8c5eb7e83d6379d3a2baf23e5c7f99f 1011167 main/binary-iphoneos-arm64e/Packages
+ 3fad8fc16752fd2e8d62865475837175 233451 main/binary-iphoneos-arm64e/Packages.gz
+SHA256:
+ 2c8e16a83b99174528865495ec13d642f01423fe08e1f045edd04e9c17608a9c 11964 main/binary-iphoneos-arm/Packages
+ 9ad5e8b873557c5f10de7a1d55bfe88bfa26bf152b84605d6b95f5bc7d4bb06b 5610 main/binary-iphoneos-arm/Packages.gz
+ c18979674d7fe13ef61038cd63e5e110411e1720095a3fa8e8bc20dcbdc84802 1031531 main/binary-iphoneos-arm64/Packages
+ c641da2f19801285d6ae28f1dff48fc14757a34f29a67b942ab4124c33618103 252573 main/binary-iphoneos-arm64/Packages.gz
+ 0a4ffb51b9acef1b98b41b436e5a9c7838d476fa028c1bb4c1fee23d0a39fc2b 1011167 main/binary-iphoneos-arm64e/Packages
+ 7f570133db19c28d57971d3731dc859b7841defd5557803fb654ddf81eea7733 233451 main/binary-iphoneos-arm64e/Packages.gz

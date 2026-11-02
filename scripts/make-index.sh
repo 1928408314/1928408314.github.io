@@ -33,4 +33,8 @@ gen_hashes(){ local alg="$1"; shift; local f; for f in "$@"; do [ -f "$f" ] || c
   # Icon 必须写绝对地址：Sileo/Zebra 只认 Release 里的 Icon 行，不会自己去找 CydiaIcon.png
   echo "Icon: ${REPO_URL%/}/CydiaIcon.png";
   echo "MD5Sum:"; gen_hashes md5 Packages Packages.gz; echo "SHA256:"; gen_hashes sha256 Packages Packages.gz; } > Release
+# 再生成标准 dists 结构：Sileo 用 stable/main 添加时走这里，否则会显示"未命名/0个包"
+if [ -f scripts/make-dists.py ] && command -v python3 >/dev/null 2>&1; then
+  python3 scripts/make-dists.py || echo "(dists 生成跳过)"
+fi
 echo "索引完成: $(grep -c '^Package:' Packages) 个包"
