@@ -1,20 +1,16 @@
-Origin: 1928408314.github.io
-Label: 1928408314.github.io
+Origin: 爱玩机
+Label: 爱玩机
 Suite: stable
 Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm64 iphoneos-arm
+Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: 1928408314.github.io
+Description: 爱玩机
+Support: https://1928408314.github.io/
+Icon: https://1928408314.github.io/CydiaIcon.png
 MD5Sum:
- d41d8cd98f00b204e9800998ecf8427e 0 Packages
- 4a4dd3598707603b3f76a2378a4504aa 20 Packages.gz
- 4059d198768f9f8dc9372dc1c54bc3c3 14 Packages.bz2
-SHA1:
- da39a3ee5e6b4b0d3255bfef95601890afd80709 0 Packages
- a0fddd5458378c1bf3c10dd2f5c060d1347741ed 20 Packages.gz
- 64a543afbb5f4bf728636bdcbbe7a2ed0804adc2 14 Packages.bz2
+ 270e8ec16130db578fce45700db29871  1041 Packages
+ b31dce0bda908514e09497d701ccbad8  781 Packages.gz
 SHA256:
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 Packages
- f61f27bd17de546264aa58f40f3aafaac7021e0ef69c17f6b1b4cd7664a037ec 20 Packages.gz
- d3dda84eb03b9738d118eb2be78e246106900493c0ae07819ad60815134a8058 14 Packages.bz2
+ 94c3357853495da27268d6025db52d0724a8d16686015aa5c63bcde71698be76  1041 Packages
+ 9e3ab97882e01af16325e46775779ae7c944ca45ec232c85e4349453e726bc35  781 Packages.gz

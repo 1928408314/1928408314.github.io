@@ -1,0 +1,26 @@
+Package: com.minis.lockscreengradientclock
+Architecture: iphoneos-arm64e
+Version: 1.5.1
+Section: Tweaks
+Maintainer: MoWang
+Installed-Size: 652
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.minis.lockscreengradientclock_1.5.1_iphoneos-arm64e.deb
+Size: 182060
+MD5sum: 6b008b899fea3b487741733b72f18529
+SHA1: 8d58feebc89f17f7085b2a28e817097ce9a57ddf
+SHA256: fc6b887e408bc8d98ba300e578341dfc9a58dba86f02e689ed95b4dac7ca94e4
+SHA512: 6e5e07328a49bdc530175ae12b9c0219168526e85db2be6d6084484f24abb5fed5e2280a85ecf95c962904894c55be515eb4c9145efd55f4c24cdac9d6af30e5
+Description: 可自定义锁屏时钟渐变色的美化插件。
+ 【注意】
+  - 本插件只适配「兔子 88 液态锁屏时间」，其他锁屏样式请自测
+ 【核心功能】
+  - 为锁屏时间字体添加自定义渐变配色
+  - 可调节渐变方向与颜色
+ 【使用说明】
+  - 安装后请 Respring 一次
+  - 设置路径：设置 → LockScreen Gradient Clock
+  - 本包为 RootHide（arm64e）版
+Name: LockScreen Gradient Clock
+Author: MoWang
+
