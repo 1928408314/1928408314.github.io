@@ -3,22 +3,26 @@ Label: 爱玩机
 Suite: stable
 Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Architectures: all iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: 爱玩机
 Support: https://1928408314.github.io/
 Icon: https://1928408314.github.io/CydiaIcon.png
 MD5Sum:
- 239641c8f99e7a6f63d3a8cee069c1b5 11964 main/binary-iphoneos-arm/Packages
- 4e59df853a113c7323f17e5ad56059f7 5610 main/binary-iphoneos-arm/Packages.gz
- 59c97f1a4651bba4694f8bfee0120bd8 1031531 main/binary-iphoneos-arm64/Packages
- 1b34fb3d216e9ea98f99744f66b9d189 252573 main/binary-iphoneos-arm64/Packages.gz
- d8c5eb7e83d6379d3a2baf23e5c7f99f 1011167 main/binary-iphoneos-arm64e/Packages
- 3fad8fc16752fd2e8d62865475837175 233451 main/binary-iphoneos-arm64e/Packages.gz
+ d025d3d8ee3f9027115228387c8e239c 1865 main/binary-all/Packages
+ 32499b3e290361735ed30ad9560c49e6 851 main/binary-all/Packages.gz
+ 148891c05d868363d232721b0d73edab 112183 main/binary-iphoneos-arm/Packages
+ d2f95da0688def783194974441cad42d 35832 main/binary-iphoneos-arm/Packages.gz
+ 57dc819693fe7de8f4521780e1f20858 1763469 main/binary-iphoneos-arm64/Packages
+ d1ca04b3eed72fcf35383ac8f3d802bb 480606 main/binary-iphoneos-arm64/Packages.gz
+ ab5a4e763cd67bea0541ca722c9aa39f 1021738 main/binary-iphoneos-arm64e/Packages
+ 1f0e8d67b9f4e9176bb2215954352c19 237096 main/binary-iphoneos-arm64e/Packages.gz
 SHA256:
- 2c8e16a83b99174528865495ec13d642f01423fe08e1f045edd04e9c17608a9c 11964 main/binary-iphoneos-arm/Packages
- 9ad5e8b873557c5f10de7a1d55bfe88bfa26bf152b84605d6b95f5bc7d4bb06b 5610 main/binary-iphoneos-arm/Packages.gz
- c18979674d7fe13ef61038cd63e5e110411e1720095a3fa8e8bc20dcbdc84802 1031531 main/binary-iphoneos-arm64/Packages
- c641da2f19801285d6ae28f1dff48fc14757a34f29a67b942ab4124c33618103 252573 main/binary-iphoneos-arm64/Packages.gz
- 0a4ffb51b9acef1b98b41b436e5a9c7838d476fa028c1bb4c1fee23d0a39fc2b 1011167 main/binary-iphoneos-arm64e/Packages
- 7f570133db19c28d57971d3731dc859b7841defd5557803fb654ddf81eea7733 233451 main/binary-iphoneos-arm64e/Packages.gz
+ 4b14535f3cf57fa8f13c242a3d4f5d9c9c71490095353ce4ec4bd499edd77ef3 1865 main/binary-all/Packages
+ 622982b3e406021db7e23d602b76b1f43e3a19b159b9e39e6016a87a58943cf7 851 main/binary-all/Packages.gz
+ 62c1b05f2e89b8d9794098a0a7789f1387be523e1b55b6b1d28861aa8b6e9ca0 112183 main/binary-iphoneos-arm/Packages
+ a58af2fe80486e6914029f775a705bffd92be7104ac729e7a0930bee7242004a 35832 main/binary-iphoneos-arm/Packages.gz
+ 184605c9b68ec59648829c95d94d84e2608f67967f2bd021b363f81c63616d55 1763469 main/binary-iphoneos-arm64/Packages
+ f3028fcede388ad5086a233c595677ab26a3cbb2e2563cdeb6fa7f32c76ebf7c 480606 main/binary-iphoneos-arm64/Packages.gz
+ e4b98bd385b682527c69f6724ecacb2652901bc267800b4c245ee5522e871d02 1021738 main/binary-iphoneos-arm64e/Packages
+ eb17d181739a698300a94a92c6cd1c0a4b59db08af4ced219253d2d0c47bba30 237096 main/binary-iphoneos-arm64e/Packages.gz

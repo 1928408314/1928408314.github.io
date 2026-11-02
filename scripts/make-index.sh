@@ -11,8 +11,8 @@ else
   apt-ftparchive packages "$SCAN" | sed "s#^Filename: .*/#Filename: debs/#" > Packages
 fi
 # 合并外部源（魔王源）：本地没有的包改写成上游 raw 绝对地址，按需回源
-if [ -f scripts/merge-mowang.py ] && command -v python3 >/dev/null 2>&1; then
-  python3 scripts/merge-mowang.py || echo "(外部源合并跳过)"
+if [ -f scripts/merge-external.py ] && command -v python3 >/dev/null 2>&1; then
+  python3 scripts/merge-external.py || echo "(外部源合并跳过)"
 fi
 # 注意：脚本开启了 set -e，可选的 override 步骤必须用 if 包裹，
 # 否则没有 overrides.json 时 [ -f ] 返回 1 会让整个脚本提前退出，

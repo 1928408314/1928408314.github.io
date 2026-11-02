@@ -14654,3 +14654,204 @@ Description: Unlocks the Pro membership of 飓风相机 on this device.
 Name: 飓风相机 PRO
 Author: Apelin
 icon: https://huayuarc.github.io/icon/jufengvip.jpg
+
+Package: byg.iosios.net.upsidedowned.roothide
+Version: 1.1-6+debug
+Section: 杂七杂八
+Maintainer: 搬运工
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Architecture: iphoneos-arm64e
+Filename: https://byg.iosios.net/debs/1549.deb
+Size: 7370
+Installed-Size: 156
+Description: 半越狱用这个！转载自艾锋降级。本插件可以实现颠倒显示，也就是说，方向锁定关闭后，设备颠倒过来，内容也会颠倒显示，实现一种无刘海感觉。在锁屏的状态下，也能颠倒显示，这次真正实现顶部无刘海无灵动岛显示，但会显示底部，不过！可以通过一些插件实现透明或者隐藏。使用 upsidedowned 方法：安装 upsidedowned 插件后，它自动生效，打开控制中心，关闭方向锁定，然后打开某App，将设备倒过来显示，即可看到效果。不过！针对一些视频翻转，还是有些BUG的，想解决这个问题，不要点“全屏观看”等字眼，直接翻转横屏就行。
+Name: Upsidedowned颠倒显示-RootHide
+Author: 34306, KhanhDuyTran
+Sponsor: 搬运工
+SileoDepiction: https://byg.iosios.net/sileo/1549
+Depiction: https://byg.iosios.net/view/1549
+Icon: https://chinesebuilding.club/pic/cydia.png
+MD5sum: cc7808197ea423a2583f63442cf78838
+SHA1: 2e7a6d3f83a2bec5f350f5b96598c59b1b63153b
+SHA256: 830f56db8442e54f8b6f80d8c1bbd352b4a48f949ed8a72cd865c66389bceb35
+
+Package: byg.iosios.net.watched.roothide
+Version: 1.0-4+debug
+Section: 系统增强
+Maintainer: 搬运工
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Architecture: iphoneos-arm64e
+Filename: https://byg.iosios.net/debs/1525.deb
+Size: 8432
+Installed-Size: 152
+Description: 半越狱用这个！Paired your Apple Watch on new watchOS with older iOS。配对神器。无需升级系统，低版本系统设备也可以配对高版本系统的手表。
+Name: Watched手表配对-RootHide
+Author: 34306
+Sponsor: 搬运工
+SileoDepiction: https://byg.iosios.net/sileo/1525
+Depiction: https://byg.iosios.net/view/1525
+Icon: https://chinesebuilding.club/pic/cydia.png
+MD5sum: c76e39fece3e3b16821e9bb8fe34c8b8
+SHA1: 201eceee41274dd366292212adb50a09c81cd56c
+SHA256: 8275e64dba5e0263bd00ab7bf401558e05f5c7e7c79e2954faeaab62ef7a3ec0
+
+Package: byg.iosios.net.fixset.roothide
+Version: 1.1
+Section: 插件依赖
+Maintainer: 搬运工
+Depends: mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm64e
+Filename: https://byg.iosios.net/debs/1516.deb
+Size: 50714
+Installed-Size: 123
+Description: 修复部分插件转roothide配置不保存问题，搬运工源，搬你所想！
+Name: FixSet修复配置-RootHide
+Author: @bswbw
+Sponsor: 搬运工
+SileoDepiction: https://byg.iosios.net/sileo/1516
+Depiction: https://byg.iosios.net/view/1516
+Icon: https://chinesebuilding.club/pic/cydia.png
+MD5sum: d5cf4a56f8a6460d4ac4d6fa23225aa9
+SHA1: ccf606de6284bddd361881c749cfe29bde96656d
+SHA256: ede8099a63268373dde0b9ef07183dcfdf447dec34faba17c3504dd8597d7165
+
+Package: byg.iosios.net.visibleisland-arm64e
+Version: 2.0
+Section: 系统增强
+Maintainer: 搬运工
+Depends: firmware (>=16.0), mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0)
+Architecture: iphoneos-arm64e
+Filename: https://byg.iosios.net/debs/1487.deb
+Size: 43630
+Description: Enable, fix, and customize the Dynamic Island on older devices.半越狱请安装这个！VisibleIsland 是一款为老设备但是是iOS16系统的开启灵动岛的插件。主要特点：一键开启灵动岛，免费，简单。支持自定义灵动岛位置。支持自定义通知位置。支持自定义灵动岛透明度和颜色。支持自定义灵动岛比例。VisibleIsland 仅仅支持 iOS 16.0 - 16.6.1 系统。iOS 15 及更低版本系统，请勿安装！请勿安装！请勿安装！原生就有灵动岛的设备，请勿安装！搬运工源已完整汉化，享受吧！
+Name: VisibleIsland开启灵动岛-RootHide
+Author: ethxnn88
+Sponsor: 搬运工
+SileoDepiction: https://byg.iosios.net/sileo/1487
+Depiction: https://byg.iosios.net/view/1487
+Icon: https://chinesebuilding.club/pic/cydia.png
+MD5sum: dceb9c36e32ed3ff801602afb26d13bb
+SHA1: a1a02631b338b5ceea15ae7f8682481a292daede
+SHA256: 6a21592fa4cc36bc80e40d14a0375063dcd7f238502ea36225ad613d3afbd024
+
+Package: net.limneos.limtools-roothide
+Version: 0.1-14
+Section: 插件依赖
+Maintainer: 搬运工
+Architecture: iphoneos-arm64e
+Filename: https://byg.iosios.net/debs/1433.deb
+Size: 32908
+Installed-Size: 228
+Description: Supplementary tools for Limneos Tweaks插件依赖
+Name: Limneos Support Tools插件依赖
+Author: Elias Limneos
+Sponsor: 搬运工
+SileoDepiction: https://byg.iosios.net/sileo/1433
+Depiction: https://byg.iosios.net/view/1433
+Icon: https://chinesebuilding.club/pic/cydia.png
+Tag: role::hacker
+MD5sum: af288570f342a44a2591cd74d3a0ea66
+SHA1: 1e8556988b96bc18c9ef9143890f885fcc396750
+SHA256: 7e168ecef3684aac15211324792cd6d85cccc722d6cfb9bdff885a06e61d1a86
+
+Package: byg.iosios.net.dynamicpeninsula.roothide
+Version: 0.7-8
+Section: 杂七杂八
+Maintainer: 搬运工
+Depends: mobilesubstrate, byg.iosios.net.limneoscrack-rootless, net.limneos.limtools-roothide, firmware(>=12.0)
+Architecture: iphoneos-arm64e
+Filename: https://byg.iosios.net/debs/1432.deb
+Size: 436462
+Installed-Size: 1496
+Description: Dynamic Island on your notch为旧设备提供灵动半岛，体验乐趣！可能有bug，自行忍受，毕竟不是原生的！半越狱可用！
+Name: DynamicPeninsula灵动半岛-RootHide
+Author: Elias Limneos
+Sponsor: 搬运工
+SileoDepiction: https://byg.iosios.net/sileo/1432
+Depiction: https://byg.iosios.net/view/1432
+Icon: https://chinesebuilding.club/pic/cydia.png
+MD5sum: fa65734309c15fbcf97e6858094f0212
+SHA1: b2343a7be1eb714f3a52f9f9790038029d65a0ca
+SHA256: aaa137223d7697dd2a2bc6aa31a2e1f5aba4fe4e7f010696d7fdc29435b4934e
+
+Package: byg.iosios.net.audiorecorderxs.roothide
+Version: 5.1-4
+Section: 系统增强
+Maintainer: 搬运工
+Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions-roothide, firmware(>=15.0)
+Conflicts: net.limneos.callrecorder, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Replaces: net.limneos.audiorecorder,net.limneos.audiorecorderx
+Architecture: iphoneos-arm64e
+Filename: https://byg.iosios.net/debs/1391.deb
+Size: 1868794
+Installed-Size: 6136
+Description: Most Advanced iOS Call Recorder Ever!通话录音破解版，半越狱使用！有问题请反馈，搬运工源永久免费，时刻接受大家的监督！如果无法安装请去官方源下载https://limneos.net/repo/ 然后再下载本源的破解插件！limneo破解插件即可完成，新版本好像包含了中文，如果无法安装请卸载中文汉化插件！
+Name: AudioRecorder通话录音破解版-RootHide
+Author: Elias Limneos
+Sponsor: 搬运工
+SileoDepiction: https://byg.iosios.net/sileo/1391
+Depiction: https://byg.iosios.net/view/1391
+Icon: https://chinesebuilding.club/pic/cydia.png
+MD5sum: 53ec95f263a980bd40b4936fc6d1c15d
+SHA1: 881abf4d49bd0e3cecdb515622bfaba70e3ad0f9
+SHA256: b491788b8309581363bffc9acf9fd6c8f499f2725aa20cb96b351b709efa9c0a
+
+Package: byg.iosios.net.audiorecorderxs.cn.hide
+Version: 5.1-3
+Section: 插件依赖
+Maintainer: 搬运工
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64e
+Filename: https://byg.iosios.net/debs/1386.deb
+Size: 18692
+Description: AudioRecorder XS 简体中文包。为通话录音插件提供中文界面，仅半越狱使用！
+Name: AudioRecorder通话录音中文汉化插件-RootHide
+Author: Sandy0 & 妖刀
+Sponsor: 搬运工
+SileoDepiction: https://byg.iosios.net/sileo/1386
+Depiction: https://byg.iosios.net/view/1386
+Icon: https://chinesebuilding.club/pic/cydia.png
+MD5sum: 2a5bba649e33595cdcbb34beb4ed580d
+SHA1: 0c91918f428336b4fb13a7caf15fbf6cf5574348
+SHA256: 8742c1a9ee7b38a386e0752f36fa6f36865de2bcc1e040fbf8a18fda819ccffe
+
+Package: net.limneos.simpleactivationactions-roothide
+Version: 0.1
+Section: 插件依赖
+Maintainer: 搬运工
+Depends: mobilesubstrate
+Architecture: iphoneos-arm64e
+Filename: https://byg.iosios.net/debs/1384.deb
+Size: 10638
+Installed-Size: 152
+Description: Simple Activation ActionsHandles StatusBar actions for simple activation events插件依赖，半越狱使用!
+Name: SimpleActivationActions插件依赖
+Author: Elias Limneos
+Sponsor: 搬运工
+SileoDepiction: https://byg.iosios.net/sileo/1384
+Depiction: https://byg.iosios.net/view/1384
+Icon: https://chinesebuilding.club/pic/cydia.png
+MD5sum: 3b80529fd1198b52026d9f00edffe013
+SHA1: bf6aa1952a2a3afe68fcd190bf1d3fd5009f3b11
+SHA256: c30ea0f8bce9580b1811f7c3c41d97c210616d44b2d35451bdb788f89e379305
+
+Package: byg.iosios.net.advertisement.hide
+Version: 2.3.1
+Section: 自研插件
+Maintainer: 搬运工
+Depends: mobilesubstrate (>= 0.9.6100), firmware (>= 14.0)
+Conflicts: com.daodao.rootless.vfa,netskao.weibonoads-rootless,byg.iosios.net.txvideonoad.rootless,com.tencent.live4iphone,netskao.ppxnoads-rootless,netskao.blblnoads-rootless,byg.iosios.net.weifeng.rootless,byg.iosios.net.baidudisk.rootless,com.lenglengyu.killads-rootless,netskao.xhsnoads-rootless,byg.iosios.net.killads-rootless,byg.iosios.net.bilibilinoad.rootless,com.snail.bilibilinoad.rootless,byg.iosios.net.csdn.rootless,byg.iosios.net.xhsnoads-rootless,byg.iosios.net.ppxnoads-rootless
+Architecture: iphoneos-arm64e
+Filename: https://byg.iosios.net/debs/1262.deb
+Size: 2537108
+Installed-Size: 1897
+Description: 广告终结者，一款免费的去广告插件，可谓越狱必装插件，创意由大佬来了老弟提起制作，搬运工源维护更新！其中特别感谢iOSign,Netskao,Lenglengyu,蜗牛等人为大家提供如此多的去广告插件，如果有安装相同软件的去广告插件，导致软件闪退，建议先删除，防止冲突！广告终结者不涉及系统层注入，不会引起系统崩溃重启，放心使用！软件闪退可使用choicy或者小扫把可以单独禁用某一项！插件无设置项，安装即生效！广告终结者永远免费更新，后续会支持越来越多的软件，有问题进搬运工源Q群反馈！
+Name: 广告终结者-RootHide
+Author: 搬运工&来了老弟&iOSign
+Sponsor: 搬运工
+SileoDepiction: https://byg.iosios.net/sileo/1262
+Depiction: https://byg.iosios.net/view/1262
+Icon: https://chinesebuilding.club/pic/cydia.png
+MD5sum: 62af83e1e30aad8ba5113279b6372806
+SHA1: d15dffb66ab39aa2edd9a87997500191bdcd4c3a
+SHA256: 94622aaa0bcbd3ad15c35475b77504a29ba7d9fac80bd8dda3f0709af5f4cf5d
