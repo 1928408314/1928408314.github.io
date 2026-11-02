@@ -9,8 +9,10 @@ Description: 爱玩机
 Support: https://1928408314.github.io/
 Icon: https://1928408314.github.io/CydiaIcon.png
 MD5Sum:
- 80f8f192b906b8c48b054f3286670d9e  8975 Packages
- cd6360af2d86acbb65e94bf22c67deec  3720 Packages.gz
+ c9633ede63b532186bd3d9110030fad7  86815 Packages
+ 62b9db9883c4657d4c66393f2a31f8db  30283 Packages.gz
+ 8ff9e9f7f89bb7378ca6ee0ac9e35b6e  25371 Packages.bz2
 SHA256:
- 3b04d53ae80aee45f1ba1ace18cb919e1bdef9ecd60806d1ebc58d46d460f916  8975 Packages
- d0d9763bf5dbebbc4edd2d52a78ce66eb63c3e7d53300cdbc46eede73a58ced5  3720 Packages.gz
+ 81863dfe6e1d17172f2f13a93972d11e41513895de72edc2b3bb2916d2080ac2  86815 Packages
+ 13c548623041bfbfec85fcd682b07c68423451aca745df35b89956776c477f0f  30283 Packages.gz
+ c1793b50c9de9f5e4b3f0ae4423d558ff14b5f53f4079e3e13986a4b1d925e42  25371 Packages.bz2
