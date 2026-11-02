@@ -1,11 +1,11 @@
-Origin: 爱玩机
-Label: 爱玩机
+Origin: 爱玩机拼音
+Label: 爱玩机拼音
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: 爱玩机
+Description: 爱玩机拼音
 Support: https://1928408314.github.io/
 Icon: https://1928408314.github.io/CydiaIcon.png
 MD5Sum:

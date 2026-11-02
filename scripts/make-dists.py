@@ -56,11 +56,11 @@ def main():
         print("  %-42s %d 个包" % ("binary-" + arch, len(rs)))
 
     out = [
-        "Origin: 爱玩机", "Label: 爱玩机", "Suite: stable", "Version: 1.0",
+        "Origin: 爱玩机拼音", "Label: 爱玩机拼音", "Suite: stable", "Version: 1.0",
         "Codename: ios",
         "Architectures: " + " ".join(sorted(buckets)),
         "Components: " + COMPONENT,
-        "Description: 爱玩机",
+        "Description: 爱玩机拼音",
         "Support: " + REPO_URL,
         "Icon: " + REPO_URL.rstrip("/") + "/CydiaIcon.png",
         "MD5Sum:",
