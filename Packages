@@ -50,6 +50,79 @@ Description: 可自定义锁屏时钟渐变色的美化插件。
 Name: LockScreen Gradient Clock
 Author: MoWang
 
+Package: com.sbcpu.floating
+Architecture: iphoneos-arm64
+Version: 4.61
+Section: Tweaks
+Maintainer: MoWang
+Installed-Size: 2852
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.sbcpu.floating_4.61_iphoneos-arm64.deb
+Size: 381562
+MD5sum: 7aecaccce3d3a0f1c8b86a3fadc78e18
+SHA1: e11cfc1b101b206fd7fb3d0a0f566789354571e7
+SHA256: 8aebbbadb840e00ba05de169f266d5b905e18e527547f3e0a7fa8c147c13134e
+SHA512: 17611aac224ee44c63fc1911baf14da9f161b5f02cb03f6fc14f4849221b01a0c7c55fbaaf2ac55512b0adbae0394a2ef8e6d61f94db27c791db45ad489117ed
+Description: 实时悬浮窗硬件监控：CPU 负载与频率、屏幕 FPS、真实电量、硬件温度与充放电电流，附带液态玻璃外观、智能充电与温控保护。
+ 【核心功能】
+  - CPU/FPS：实时查看 CPU 负载、物理频率与屏幕刷新率
+  - 电池/温度：读取真实电量、硬件级温度与充放电电流
+  - 通知与悬浮聊天：无缝显示微信/QQ 消息，点击直达聊天窗口
+  - 液态玻璃：浮窗材质可自定义强度、折射、厚度、高光、色散、折射率与渲染质量
+  - 充电管理：可手动阻止充电/外部供电；智能充电按上限停充、下限回充，支持保留外部电源与覆盖 OBC，保留满血快充
+  - CPUthermal 温控：高温自动降功耗、熄屏省电，温度恢复后自动还原
+ 【手势操作】
+  - 单击浮窗：展开胶囊 / 消息直达
+  - 双击浮窗：进入高级设置中心
+  - 长按浮窗：查看详细硬件状态
+  - 拖动浮窗：自由移动并自动边缘吸附
+ 【使用说明】
+  - 安装后请 Respring 一次
+  - 设置路径：设置 → SBCPU Floating（双击桌面浮窗也可进入高级设置）
+  - 建议先连接有线充电器再启用智能停充，无线充电不执行智能停充
+  - 值守进程 SBCPUChargeDaemon 由 launchd 常驻，请勿手动重复启动
+  - 本包为 Rootless（arm64）版；RootHide（arm64e）请安装对应版本
+Name: SB CPU Floating
+Author: MoWang
+
+Package: com.zege.27safari
+Architecture: iphoneos-arm64
+Version: 3.5.52
+Section: Tweaks
+Maintainer: 泽哥
+Installed-Size: 648
+Depends: mobilesubstrate
+Conflicts: com.sekoandlionel.26safari, com.rein.26safari
+Replaces: com.sekoandlionel.26safari, com.rein.26safari
+Filename: debs/com.zege.27safari_3.5.52_iphoneos-arm64.deb
+Size: 64060
+MD5sum: ccd720cc8d4752851d3b7e212ca11af0
+SHA1: 77a0ed59acaa7250f7ceb8c022f7b72228aac3b6
+SHA256: f18f0586eb2bd1b618568f6c97357ea65df564fc0b8c71e4b32ab4ed00570608
+SHA512: 66a97e72880927b74b2d1fbd550d11fa725b43108f34760356606d5e3ace1fc2cf3b59651af55473967af6b51b89cdbe0d90105491cc0eddd6ec0f9d53287916
+Description: 给Safari添加iOS27液态玻璃效果。
+Name: 27Safari
+Author: 泽哥
+
+Package: com.zege.27safari
+Architecture: iphoneos-arm64e
+Version: 3.5.52
+Section: Tweaks
+Maintainer: 泽哥
+Installed-Size: 648
+Depends: mobilesubstrate
+Conflicts: com.sekoandlionel.26safari, com.rein.26safari
+Replaces: com.sekoandlionel.26safari, com.rein.26safari
+Filename: debs/com.zege.27safari_3.5.52_iphoneos-arm64e.deb
+Size: 64044
+MD5sum: 7b7bc3867f2a0256e9ff0a78e0247ac1
+SHA1: ff6c5d42455341cd4d7c0c624c6536c4a9eca68e
+SHA256: 0ad2b0c1796c26e5b3ec6ef8e89b50823ec866dd56576a89f01478f90ce749a8
+SHA512: a097deaa8427ce567ab6fa3f692f8f2bac0a6cccfbad4baba0390d83c683e172c5e337173b05773c1c4978bdd62c97a5531afc12a17bd0b06994cb3d692ba6f3
+Description: 给Safari添加iOS27液态玻璃效果。
+Name: 27Safari
+Author: 泽哥
+
 Package: com.zegeyoudaoli.home27
 Architecture: iphoneos-arm64e
 Version: 2.1.62
@@ -82,6 +155,41 @@ Description: 27Home
  新增本地压缩包一键导入
  性能：调试日志关闭时诊断代码零开销；修掉打开日志时的大体积日志卡顿
 Name: 27Home
+Author: ngkhoi&泽哥
+Icon: https://MrSuuu.github.io/Sileo/depictions/icon-home27.png
+
+Package: com.zegeyoudaoli.home27
+Architecture: iphoneos-arm64
+Version: 2.1.62+rootless
+Section: Tweaks
+Maintainer: ngkhoi&泽哥
+Installed-Size: 2452
+Depends: mobilesubstrate | ellekit, preferenceloader
+Conflicts: com.ngkhoi.26home
+Replaces: com.ngkhoi.26home
+Filename: debs/com.zegeyoudaoli.home27_2.1.62_rootless_iphoneos-arm64.deb
+Size: 611126
+MD5sum: 12b05324a2784b0efee048137b9492aa
+SHA1: b686db38dfd745218fdbfcbab04c2e79027a554a
+SHA256: adfdd126c657edc09853c34daec5267d0352b3b23c82add9652bfaaf5a7360c2
+SHA512: e954d46307d253c1cde84a62baa150d4a58f2274f916ce7fc27100d46d7eb6fd213c115a63feb99a2bf1c9200c83e85e55633ec37784babdf72968557e0a3556
+Description: 27Home
+ 主屏幕图标美化工具
+ 基于 ngkhoi 的 26Home 汉化维护版。
+ 内部标识全面统一为 27Home：类名 / 源文件名 / 资源目录 / 日志文件名 / 偏好包名。
+ 偏好存储沿用原有域名，升级不会丢设置（也不影响从上游包换装时的设置继承）。
+ 液态玻璃图标
+ 接 LiquidAss 引擎真折射
+ 图标折射跟随 LiquidAss 总开关：关了退回普通玻璃（9002 模糊 + 9003 底色），
+ 并监听 LiquidAss 的偏好重载通知，开关变化当场生效、不用注销。
+ 未装 LiquidAss 时走零依赖普通玻璃
+ 所有效果参数可调
+ 支持相册自定义图标和例外应用
+ 图标包管理器，直连 SnowBoard 本地主题（实时生效）
+ 本地图标包的作者显示包内 Info.plist 的 PackageName 字段，没有该文件显示「未知」
+ 新增本地压缩包一键导入
+ 性能：调试日志关闭时诊断代码零开销；修掉打开日志时的大体积日志卡顿
+Name: 27Home（rootless 测试）
 Author: ngkhoi&泽哥
 Icon: https://MrSuuu.github.io/Sileo/depictions/icon-home27.png
 
